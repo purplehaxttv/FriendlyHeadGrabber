@@ -1,0 +1,9 @@
+{
+  "name": "FriendlyHeadGrabber",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/purplehaxttv/FriendlyHeadGrabber",
+  "description": "The Headgrab enemy turns friendly: he never attacks, leaves dead players' heads alone, and shows purple hearts when you press E on him.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
